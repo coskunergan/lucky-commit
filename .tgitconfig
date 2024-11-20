@@ -1,0 +1,4 @@
+[hook "postcommit"]
+	cmdline = C:\\lucky_commit.bat
+	wait = true
+	show = false
